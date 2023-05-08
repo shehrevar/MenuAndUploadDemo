@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MenuAndUploadDemo</string>
+    <string name="contact">Contact</string>
+    <string name="upload">Upload</string>
+    <string name="exit">Exit</string>
+    <string name="choose">Choose</string>
+    <string name="upload1">Upload</string>
+    <string name="upload_image">Upload Image</string>
+
+</resources>
